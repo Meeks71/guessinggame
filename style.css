@@ -1,0 +1,23 @@
+.header {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Arial', 'sans-serif';
+        justify-content: right;
+        /*background-image: url('https://www.easy-party-ideas-and-games.com/images/TinyGuessingGame.png');
+        background-repeat: no-repeat;
+        }*/
+          
+   
+
+    .container{
+        background-image: url('https://www.easy-party-ideas-and-games.com/images/TinyGuessingGame.png');
+        background-repeat: no-repeat;
+        margin-left: 500px;
+    }    
+
+    .para{
+        text-align: center;
+    }   
+    .footer {
+        background-image: url('https://www.easy-party-ideas-and-games.com/images/TinyGuessingGame.png');
+        background-repeat: no-repeat;
+
+    } 
